@@ -2,8 +2,8 @@
   <img align="left" src="Resources/fullLogo1.png" width="203px"/>
 </a>
 
----
-
+# 
+<br>
 Pepris is a free to play opensource stacker made on Windows Forms!
 
 ## How to build
@@ -21,4 +21,4 @@ Or by creating the `settings.xml` file manually, in the directory where `pepris.
 </Settings>
 ```
 
-*Thank you for playing!*
+*Thank you for playing!* 💚
