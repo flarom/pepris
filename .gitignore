@@ -1,0 +1,75 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.log
+*.tlog
+*.pdb
+*.cache
+*.ilk
+*.idb
+*.ipch
+*.aps
+*.pch
+*.dll
+*.exe
+*.vcxproj.user
+*.vcxproj.filters
+*.vspxproj
+*.vspscc
+*.nupkg
+
+# Visual Studio 2019/2022 folder
+.vs/
+
+# NuGet Packages
+packages/
+*.nupkg
+*.snupkg
+# Uncomment if using the new .NET Core package cache
+# **/packages/*/index.json
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config files
+desktop.ini
+$RECYCLE.BIN/
+
+# Tooling
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# Local history
+.localhistory/
+
+# Code coverage
+coverage/
+*.coverage
+*.coveragexml
+_testresults/
+
+# Web/Node.js related files
+node_modules/
+
+# MacOS file system
+.DS_Store
+
+# Backup files
+*.bak
+*.swp
+
+# Other
+*.tmp
+*.temp
